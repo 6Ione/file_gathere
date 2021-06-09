@@ -1,0 +1,7 @@
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\bin\Debug\Gatherer.exe.config
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\bin\Debug\Gatherer.exe
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\bin\Debug\Gatherer.pdb
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\obj\Debug\Gatherer.csprojAssemblyReference.cache
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\obj\Debug\Gatherer.csproj.CoreCompileInputs.cache
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\obj\Debug\Gatherer.exe
+C:\Users\Domonic\Desktop\My_Programs\Gatherer\Gatherer\obj\Debug\Gatherer.pdb
